@@ -2,8 +2,9 @@
     background-color: orange;
     width: 100px;
     height: 200px;
-    animation: githubLogo 2s ease-in-out
-   
+    animation-name githubLogo;
+    animation-duration: 3s ;
+    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
 }
 
 
