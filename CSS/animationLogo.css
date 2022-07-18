@@ -2,7 +2,7 @@
     background-color: orange;
     width: 100px;
     height: 200px;
-    animation-name githubLogo;
+    animation-name: "githubLogo";
     animation-duration: 3s ;
     animation-timing-function: ease-in-out;
     animation-iteration-count: inherit;
@@ -19,6 +19,6 @@
         background: crimson;
         border-radius: 100%;}
     100% {background-color: darkmagenta;
-        transform: rotate(180deg);}
+        transform: rotate(90deg);}
         
 }
