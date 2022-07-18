@@ -6,6 +6,7 @@
     animation-duration: 3s ;
     animation-timing-function: ease-in-out;
     animation-iteration-count: inherit;
+    animation-direction: alternate ;
 }
 
 
@@ -14,7 +15,7 @@
     0% {height : 100%}
     40% {width: 100%;}
     80% {height: 100%;
-        background: yellow;}
-        transitions: 
+        background: crimson;}
+    100% {background-color: darkmagenta;}
         
 }
