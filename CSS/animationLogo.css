@@ -1,2 +1,14 @@
+.github 
+background-color: orange;
+width: 100px
+height: 200px
+position relative
+animation: githubLogo 2s ease-in-out
 
+
+@keyframes githubLogo{
+    0% {height : 200px}
+    40% {width: 300px;}
+    70% {height: 700px;
+        background: yellow:}
 }
