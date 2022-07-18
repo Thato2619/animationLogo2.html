@@ -1,8 +1,8 @@
 .github{
     background-color: orange;
-    width: 100px
-    height: 200px
-    position relative
+    width: 100px;
+    height: 200px;
+    position: relative
     animation: githubLogo 2s ease-in-out
 }
 
