@@ -14,7 +14,8 @@
 @keyframes githubLogo{
     0% {height : 100%;
         transform: translateY(300px);}
-    40% {width: 100%;}
+    40% {width: 100%;
+        transform: translateX(500px);}
     80% {height: 100%;
         background: crimson;
         border-radius: 100%;}
