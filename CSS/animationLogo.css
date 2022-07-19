@@ -15,7 +15,7 @@
     0% {height : 100%;
         transform: translateY(300px);}
     40% {width: 100%;
-        transform: translateX(450px);}
+        transform: translateX(350px);}
     80% {height: 100%;
         background: crimson;
         border-radius: 100%;}
